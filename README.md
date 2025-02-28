@@ -1,10 +1,11 @@
-# StochasticGutBrainModel
+## StochasticGutBrainModel
 StochasticGutBrainModel is a computational simulation framework that explores the complex interactions between the gut microbiome, metabolites, hormones, and neural signaling in the gut-brain axis
-# StochasticGutBrainModel
 
 ## A Stochastic Model of Gut-Brain Axis Dynamics with Microbiome Interactions
 
 ## Project Description
+
+StochasticGutBrainModel is a computational biology hobby project that simulates the complex interactions between gut microbes, metabolites, and host physiology using stochastic differential equations. This model integrates Lotka-Volterra dynamics for microbial communities with host hormonal signaling and neural feedback, revealing how diet, antibiotics, and stress can trigger critical transitions in both microbiome composition and metabolic function. Unlike deterministic approaches, this stochastic framework captures the inherent randomness of biological systems, exposing emergent phenomena like bistability, hysteresis, and early warning signals before system collapse. The project includes visualization tools for exploring bacterial community dynamics, metabolite production, and host responses over time. Created by a curious enthusiast (not a professional researcher), this project demonstrates how computational modeling can generate insights into the gut-brain axis and potentially inspire new questions about host-microbiome relationships. The model is not intended for clinical applications but serves as an educational exploration of complex biological systems.
 
 StochasticGutBrainModel is a computational simulation framework that explores the complex interactions between the gut microbiome, metabolites, hormones, and neural signaling in the gut-brain axis. Unlike deterministic models, this project incorporates stochastic dynamics to capture the inherent randomness and noise in biological systems, revealing emergent behaviors and critical transitions that might be missed by traditional approaches.
 
@@ -139,7 +140,7 @@ This project was inspired by:
 - Stochastic modeling techniques in systems biology
 - The power of computational exploration to understand complex systems
 
-Special thanks to the scientific Python ecosystem (NumPy, SciPy, Matplotlib, Pandas) and to large language models for assistance with code development and refinement.
+Special thanks to the scientific Python ecosystem (NumPy, SciPy, Matplotlib, Pandas) and to Claude Sonnet 3.7 and Gemini 2.0 Pro for assistance with code development and refinement.
 
 ## Contact
 
