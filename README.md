@@ -40,7 +40,7 @@ networkx
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/StochasticGutBrainModel.git
+git clone https://github.com/Bashpoet/StochasticGutBrainModel.git
 cd StochasticGutBrainModel
 ```
 
